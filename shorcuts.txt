@@ -1,0 +1,12 @@
+shorcut -> windows + imprPant
+
+open icon - desktop -> windos + #_number
+
+create new desktop -> ctrl + windows + R
+
+how to see desktop on all windows -> windows + ','
+
+close session -> windows + L
+
+APP option notification -> windows + A
+
